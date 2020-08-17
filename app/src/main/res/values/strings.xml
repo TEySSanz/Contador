@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloTexto">Contador: </string>
+    <string name="boton_1">+</string>
+    <string name="boton_2">-</string>
+    <string name="boton_3">RESETEA</string>
+    <string name="contadorTexto" />
+</resources>
