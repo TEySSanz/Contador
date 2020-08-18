@@ -6,4 +6,5 @@
     <string name="boton_2">-</string>
     <string name="boton_3">RESETEA</string>
     <string name="contadorTexto" />
+    <string name="negativos">Negativos</string>
 </resources>
